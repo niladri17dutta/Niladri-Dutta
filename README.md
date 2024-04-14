@@ -2,7 +2,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 🔭 I’m currently working on Front-end development <br><br>
 👨‍💻 My social media handle https://www.linkedin.com/in/niladri17dutta/<br><br>
-📫 How to reach me niladridutta.2005@gmail.com<br><br>
+📫 How to reach me: niladridutta.2005@gmail.com<br><br>
 ⚡ Fun fact I love to Travel
 
 # 🌐 Socials:
